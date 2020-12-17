@@ -18,18 +18,12 @@
   },
   "dependencies": {
     "imagemin": "^7.0.1",
-    "imagemin-advpng": "^6.0.0",
-    "imagemin-jpeg-recompress": "^7.0.0",
-    "imagemin-jpegoptim": "^7.0.0",
     "imagemin-jpegtran": "gtuk/imagemin-jpegtran#make-parameters-editable",
     "imagemin-mozjpeg": "^9.0.0",
-    "imagemin-optipng": "gtuk/imagemin-optipng#add-strip-options",
     "imagemin-pngcrush": "gtuk/imagemin-pngcrush#edit-options",
-    "imagemin-pngout": "^5.0.0",
     "imagemin-pngquant": "gtuk/imagemin-pngquant#fix-broken-strip-option",
     "is-jpg": "^2.0.0",
-    "is-png": "^2.0.0",
-    "sharp": "^0.26.2"
+    "is-png": "^2.0.0"
   },
   "standard": {
     "env": [
